@@ -8,7 +8,7 @@
 
 4. Install cuDNN from https://developer.nvidia.com/cudnn and follow the installation instructions.
 
-5. Download the repository from " "
+5. Download the repository
 
 6. Extract the repository to a folder of your choice and open it in Visual Studio Code.
 
