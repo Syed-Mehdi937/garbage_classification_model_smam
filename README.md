@@ -1,6 +1,6 @@
 # Guide to install the necessary software and run the model
 
-## Note: There are two models currently available, the original 6-class model trained on 3,500 images under the main branch, and an enhanced 12-class model under the testbr branch, the model was trained on 15,515 images and both models were tested on images provided in the Garbage Data Collection Form by Students.
+## Note: There are two models currently available, the original 6-class model trained on 3,500 images under the main branch, and an enhanced 12-class model under the testbr branch, the enhanced model was trained on 15,515 images and both models were tested on images provided in the Garbage Data Collection Form by Students.
 
 1. Install Python 3.10.10 from https://www.python.org/downloads/release/python-31010/
 
