@@ -16,7 +16,7 @@
 
 6. Extract the repository to a folder of your choice and open it in Visual Studio Code.
 
-7. Open the garbage_classifier_smam.ipynb or the larger enhanced_garbage_classifier_smam.ipynb file and run it cell by cell.
+7. Open the garbage_classifier_smam.ipynb or the larger advanced_garbage_classifier_smam.ipynb file and run it cell by cell.
 
 8. Train the model, or use the pre-trained "model.pth" or "model2.pth" files in the "models" folder, and run the model on the test images, or on your own images by adding images to the external folder.
 
