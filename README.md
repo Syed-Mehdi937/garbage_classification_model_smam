@@ -15,6 +15,8 @@
 5. Download the repository
 
 6. Extract the repository to a folder of your choice and open it in Visual Studio Code.
+   
+   6.1. Open the Command Prompt and type pip install [insert module names here] (the modules mentioned in the first cell of the programs)
 
 7. Open the garbage_classifier_smam.ipynb or the larger advanced_garbage_classifier_smam.ipynb file and run it cell by cell.
 
