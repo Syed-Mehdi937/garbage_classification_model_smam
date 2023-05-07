@@ -1,6 +1,6 @@
 # Guide to install the necessary software and run the models
 
-## Note: There are two models currently available, the original baseline 6-class model trained on 3,500 images under the main branch, and an advanced 12-class model in the "extra" folder under the main branch, the advanced model was trained on 15,515 images and both models were tested on images provided in the Garbage Data Collection Form by Students.
+## Note: There are two models currently available, the original baseline 6-class model trained on 3,500 images under the main branch with an average accuracy of 93.5%, and an advanced 12-class model with an maximum accuracy of 97.6% located in the "extra" folder, the advanced model was trained on 15,515 images and both models were tested on images provided in the Garbage Data Collection Form by Students.
 
 1. Install *Python 3.10.10* from https://www.python.org/downloads/release/python-31010/
    
