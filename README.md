@@ -2,6 +2,9 @@
 
 ## Note: There are two models currently available, the original baseline 6-class model trained on 3,500 images under the main branch with an average accuracy of 93.5%, and an advanced 12-class model with an maximum accuracy of 97.6% located in the "extra" folder, the advanced model was trained on 15,515 images and both models were tested on images provided in the Garbage Data Collection Form by Students.
 
+Contributions and suggestions to improve the models are highly encouraged and welcomed. If you would like to contribute to the project, feel free to submit a pull request or open an issue on the GitHub repository. Your input can help make the models more accurate and efficient in classifying waste items.
+
+
 1. Install *Python 3.10.10* from https://www.python.org/downloads/release/python-31010/
    
    1.1. Make sure to check the Install PiP checkbox when installing python.
